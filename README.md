@@ -18,7 +18,7 @@ My name is Victor Nguyen and I'm a 20 year old Computer Information Systems Majo
 ## How to contact me!
 | Outlet | Source |
 | --------- | ---------- |
-| LinkedIn | [HERE!](linkedin.com/in/victor-nguyen-43a914173) |
+| LinkedIn | [https://bit.ly/3gpWl9L](https://bit.ly/3gpWl9L) |
 | Gmail | nguye481@cougars.csusm.edu |
 
 <!--
