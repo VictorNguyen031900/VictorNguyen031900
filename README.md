@@ -15,7 +15,7 @@ My name is Victor Nguyen and I'm a 20 year old Computer Information Systems Majo
 - Python [2020-Present]
 - HTML [2020-Present]
 - CSS [2020-Present]
-- JS [2020-Present]
+- Javascript [2020-Present]
 - Computer Hardware [2013-Present]
 
 ## How to contact me!
