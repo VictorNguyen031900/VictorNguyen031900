@@ -11,11 +11,12 @@ My name is Victor Nguyen and I'm a 20 year old Computer Information Systems Majo
 
 ## Skills
 - C++ [2018-Present]
-- MIPS Assembly [2019-2019]
-- Python [2020-Present]
-- HTML [2020-Present]
-- CSS [2020-Present]
-- Javascript [2020-Present]
+- MIPS Assembly [2019-2019] Novice
+- Python [2020-Present] 
+- HTML [2020-Present] Novice
+- CSS [2020-Present] Novice
+- Javascript [2020-Present] Novice
+- PHP [2020-Present] Novice
 - Computer Hardware [2013-Present]
 
 ## How to contact me!
