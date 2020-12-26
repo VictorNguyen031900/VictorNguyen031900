@@ -10,14 +10,14 @@ My name is Victor Nguyen and I'm a 20 year old Computer Information Systems Majo
 - I love to listen to Joji, Blackpink, and Rich Brian
 
 ## Skills
-- C++ [2018-Present]
+- C++ [2018-Present] Intermediate
 - MIPS Assembly [2019-2019] Novice
-- Python [2020-Present] 
+- Python [2020-Present] Intermediate
 - HTML [2020-Present] Novice
 - CSS [2020-Present] Novice
 - Javascript [2020-Present] Novice
 - PHP [2020-Present] Novice
-- Computer Hardware [2013-Present]
+- Computer Hardware [2013-Present] Intermediate
 
 ## How to contact me!
 | Outlet | Source |
