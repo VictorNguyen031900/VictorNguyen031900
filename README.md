@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 # About Me
-My name is Victor Nguyen and I'm a 21 year old Computer Information Systems Major at California State University San Marcos.  I strive to become a Software Developer, Database Administrator, or anything involving technology!  I am currently teaching myself a programming language called Python because of its vast usage outside of university.  Alongside learning Python, I'm creating my personal Discord Bot and I plan to have many features to make the bot useful for anyone other than myself.  I do want to find an internship involving my major so I can gain more experience!
+My name is Victor Nguyen and I'm a 22 year old Computer Information Systems Major at California State University San Marcos.  I strive to become a Software Developer, Database Administrator, or anything involving technology!  I am currently teaching myself a programming language called Python because of its vast usage outside of university.  Alongside learning Python, I'm creating my personal Discord Bot and I plan to have many features to make the bot useful for anyone other than myself.  I do want to find an internship involving my major so I can gain more experience!
 
 ## Fun Facts!
 - I love computer hardware and custom mechanical keyboards
@@ -13,11 +13,14 @@ My name is Victor Nguyen and I'm a 21 year old Computer Information Systems Majo
 - C++ [2018-Present] Intermediate
 - MIPS Assembly [2019-2019] Novice
 - Python [2020-Present] Intermediate
-- HTML [2020-Present] Novice
-- CSS [2020-Present] Novice
-- Javascript [2020-Present] Novice
-- PHP [2020-Present] Novice
-- Computer Hardware [2013-Present] Intermediate
+- HTML [2020-Present] Intermediate
+- CSS [2020-Present] Intermediate
+- Javascript [2020-Present] Intermediate
+- PHP [2020-Present] Intermediate
+- Computer Hardware [2013-Present] Intermediate-High
+- Azure Pipeline [2020-2021] Intermediate
+- Google Cloud [2021-2022] Intermediate
+- AWS [2021-2022] Intermediate
 
 ## How to contact me!
 | Outlet | Source |
