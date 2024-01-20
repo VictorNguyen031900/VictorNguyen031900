@@ -1,13 +1,7 @@
 ### Hello! 👋
 
 # About Me
-My name is Victor Nguyen and I'm a 23 year old Computer Information Systems Major at California State University San Marcos.  I strive to become a Software Developer, Database Administrator, or anything involving technology!  I am currently teaching myself a programming language called Python because of its vast usage outside of university.  Alongside learning Python, I'm creating my personal Discord Bot and I plan to have many features to make the bot useful for anyone other than myself.  I do want to find an internship involving my major so I can gain more experience!
-
-## Fun Facts!
-- I love computer hardware and custom mechanical keyboards
-- I'm a dog lover but not opposed to cats either
-- My favorite breed of dogs is Pembroke Welsh Corgis and my favorite breed of cats is Scottish Fold
-- I love to listen to Joji, Blackpink, and Rich Brian
+My name is Victor Nguyen and I'm a 23 year old Computer Information Systems graduate from California State University San Marcos.  I strive to become a network engineer and/or cybersecurity analyst!  I am currently teaching myself networking concept and virtualization while studying for the CompTIA Security certification.
 
 ## Skills
 - C++ [2018-Present] Intermediate
