@@ -20,7 +20,6 @@ My name is Victor Nguyen and I'm a 23 year old Computer Information Systems grad
 | Outlet | Source |
 | --------- | ---------- |
 | LinkedIn | [https://bit.ly/3gpWl9L](https://bit.ly/3gpWl9L) |
-| Gmail | nguye481@cougars.csusm.edu |
 
 <!--
 **VictorNguyen031900/VictorNguyen031900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
